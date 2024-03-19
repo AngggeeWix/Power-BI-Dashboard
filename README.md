@@ -40,6 +40,9 @@ I've created a dynamic and insightful sales dashboard using Power BI. This dashb
 # Sales Dashboard for Coffee Shop
 ![coffee](https://github.com/AngggeeWix/power-bi-dashboard/assets/159560080/f7f2a844-886a-4159-be6e-56e0ccebbdf1)
 
+# Sales Dashboard for SuperMarket
+![Screenshot 2024-03-19 220924](https://github.com/AngggeeWix/power-bi-dashboard/assets/159560080/964d1026-c471-4312-980f-0173cf7e08a6)
+
 
 Next Steps:
 I'm continually refining and expanding my skills in data analytics and visualization. Stay tuned for more projects and updates as I continue to explore new tools and techniques in the field of data science.
